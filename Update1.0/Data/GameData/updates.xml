@@ -7,7 +7,7 @@
  <file name='MHPClient.dll' hash='f77c3825d92791b0c28a8392ba06f93c' size='1168384' />
  <file name='MHPVerify.dll' hash='aa4b5fede73428e54f2952516e72e123' size='55296' />
  <file name='ogg.dll' hash='f9ed18b2c390e5ba72856b91ca018b7e' size='53248' />
- <file name='Settings.ini' hash='332dcb5f4b32ca3ba462beeda0bc56df' size='744' />
+ <file name='Settings.ini' hash='40a5cb2114394a98f874b0ea11553aa2' size='739' />
  <file name='Usar Para HD.rar' hash='b909b12adebd7c7f91524b3d42b0e8a2' size='63373' />
  <file name='vorbisfile.dll' hash='e7250bf54e288824e61160c65a6b31df' size='999424' />
  <file name='wzAudio.dll' hash='2fe3b2efebc02746aa4e0634daae3036' size='212992' />
@@ -16,7 +16,7 @@
  <file name='Data/Gate.bmd' hash='da42b30fbee8db5475123f0784431420' size='7168' />
  <file name='Data/Macro.txt' hash='514180425b20ef75c91dc42d6c06d85e' size='25' />
  <file name='Data/t41.bmd' hash='bdb9d6ea2da43bf0fc7d8ec334cafda0' size='12292' />
- <file name='Data/Custom/AccountsList.mspro' hash='a8d644d70689003c4dd84bde9619c84e' size='44' />
+ <file name='Data/Custom/AccountsList.mspro' hash='564142025ce8e48818eb612fe2c53a95' size='88' />
  <file name='Data/Custom/Main.ico' hash='2c3532f337bc4f60bdf03fd06eca6722' size='7078' />
  <file name='Data/Custom/Data/MSPro.zip' hash='5334a2432bf144618b5c5d631a813e32' size='1333468' />
  <file name='Data/Custom/Interface/ArrowDown.ozj' hash='9aa6b34fb107be4dc56df97c26547b95' size='13932' />
@@ -675,8 +675,8 @@
  <file name='Data/Effect/cherryblossom/Skura_iteam_event.bmd' hash='650599ad427bbf0392c4b5b3827603b1' size='1918' />
  <file name='Data/Effect/partCharge1/bujuckline.ozj' hash='d17ae6223bd0a4ee899e0f3371be5288' size='22194' />
  <file name='Data/GameData/MSProCore.dll' hash='8ff927e7ee71184add54e5612314ecd0' size='58368' />
- <file name='Data/GameData/system.dat' hash='dbeecb6e1b9f6225ec204887283ff60f' size='472' />
- <file name='Data/GameData/visual.dat' hash='9d098dff2950d6cf7d2aa660330f060e' size='12578924' />
+ <file name='Data/GameData/system.dat' hash='e2a7cad5a5d2406addfa6c64c9b14915' size='492' />
+ <file name='Data/GameData/visual.dat' hash='1cedcda4934fa725abe03ef60d1f12d0' size='12578924' />
  <file name='Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.jpg' hash='db3c16a5e76b2de9f54c3c6825b10081' size='15863' />
  <file name='Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ' hash='4f076ed85bba36876b5d36b8370707f0' size='25874' />
  <file name='Data/InGameShopBanner/583.2010.005/IBSBanner.txt' hash='d41d8cd98f00b204e9800998ecf8427e' size='0' />
@@ -5586,6 +5586,7 @@
  <file name='Data/Object34/Myobi04.OZJ' hash='b14d1c7c6485376c7094605ffd78c92d' size='30495' />
  <file name='Data/Object34/Object01.bmd' hash='13771b143fc39f4c049f7ceb7693efe1' size='4389' />
  <file name='Data/Object34/Object01_+°¦+.bmd' hash='4b2deece73b03b152dad73026f423072' size='4389' />
+ <file name='Data/Object34/Object01_+Â°Â¦+.bmd' hash='d41d8cd98f00b204e9800998ecf8427e' size='0' />
  <file name='Data/Object34/Object02.bmd' hash='eb8b2ac66a6882963e6fd78541450ffc' size='6602' />
  <file name='Data/Object34/Object03.bmd' hash='36b9b2c0ac165b7cf635739d5617913f' size='3506' />
  <file name='Data/Object34/Object04.bmd' hash='e9003ea5cdb799dd26abc2915b8ce7d3' size='59990' />
@@ -13403,5 +13404,5 @@
  <file name='Herramientas/Resolución/800x600.reg' hash='f174b640b6660c0977736a07606808ae' size='230' />
  <file name='Herramientas/Ventana/Activar Modo Ventana.reg' hash='647a8d0f00c11a5eb03f92152141562e' size='171' />
  <file name='Herramientas/Ventana/Desactivar Modo Ventana.reg' hash='e531a3df495cb05023f1297078b8e772' size='169' />
- <file name='MHP_LOG/2025-12-26.log' hash='e0e048aa8abaa3d3aba690b34674e190' size='88827' />
+ <file name='MHP_LOG/2025-12-26.log' hash='e4ef3ca097aff1935e47b13d000fa72a' size='102970' />
 </updates>
